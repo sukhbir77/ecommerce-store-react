@@ -27,4 +27,4 @@ HeadphoneHub is your one-stop destination for premium headphones, designed with 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/ecommerce_stripe.git
+   git clone https://github.com/sukhbir77/ecommerce-store-react.git
